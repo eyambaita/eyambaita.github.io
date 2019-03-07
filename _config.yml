@@ -1,11 +1,11 @@
 # Site settings
-author: eyambaita
-title: 
+author: Eyamba Ita
+title: The 28th Amendment
 header-img: img/home-bg.png
 email: eyambaita@gmail.com
-copyright_name: eyambaita
+copyright_name: Eyamba Ita
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The right to bear and control The Machine 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  eyambaita
